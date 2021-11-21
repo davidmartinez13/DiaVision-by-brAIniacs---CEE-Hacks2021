@@ -1,0 +1,2 @@
+{"Name": "Matej", "Age": "23", "Ulcer Temp": "32", "Body Temp": "34", "Day": "7"}
+{"Name": "Matej", "Age": "23", "Ulcer Temp": "32", "Body Temp": "34", "Day": "7"}
